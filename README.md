@@ -1,6 +1,15 @@
-### Hi there 👋
+### Yo 🙃
+
+Yeah, idk why you're here or how you got here, but whatever.
+
+Right now, I'm working on [DinoBot](https://github.com/jimpaly/DinoBot), a bot for a Discord server I'm in. 
+
+I got some ideas for mobile apps or websites, but the next thing I'm looking to do is a pretty simple chrome extension :P
 
 <!--
+
+lol just gonna leave these in case I forget about what I could add in the future
+
 **jimpaly/jimpaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
