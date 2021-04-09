@@ -2,9 +2,9 @@
 
 Yeah, idk why you're here or how you got here, but whatever.
 
-Right now, I'm working on [DinoBot](https://github.com/jimpaly/DinoBot), a bot for a Discord server I'm in. 
+I recently started a new project, a [new tab](https://github.com/jimpaly/new-tab) Chrome extension. It'll be a fairly long term project (I hope), and I'm also learning reactjs (and web dev lol) at the same time. 
 
-I got some ideas for mobile apps or websites, but the next thing I'm looking to do is a pretty simple chrome extension :P
+Sometimes, I'll also be working on [DinoBot](https://github.com/jimpaly/DinoBot), a bot for a Discord server I'm in. I also got some other Discord bot ideas, but those are for a later time.
 
 <!--
 
